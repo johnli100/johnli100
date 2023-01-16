@@ -1,5 +1,4 @@
 - 👋 Hi, my name is John Li.
 - 👀 I’m an economist by training and I currently work as an actuary quantifying risks using stochastic models.
-- 🌱 I’m deeply curious about how the beauty and complexity of the world, especially human mind, seem to emerge from chaos and simplicity. My interest is in Reinforcement Learning, Complexity Science and Bayesian statistics.
-- 💞️ I’m experimenting the use of Machine Learning especially Reinforcement learning in stock trading. 
-- Even though I am amazed by how the human mind works, I don't believe human knowledge by way of conceptualization of the world is the best approach to know the world. Instead, direct experience of the world by bringing full attention to the current moment with no thoughts offers a better alternative in many cases! 
+- 🌱 I am deeply awed by the vast beauty and simplicity, complexity and chaos that co-exist in this world. I try to use Causality, Complexity Science, Bayesian statistics and Machine Learning to help me understand how everything works. However, I believe direct experience rather than knowledge (by way of conceptualization) of the real world is the best way to understand it, live it! 
+- 💞️ I’m experimenting the use of Machine Learning especially Causal AI for trading/investing. 
