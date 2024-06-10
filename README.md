@@ -1,4 +1,4 @@
 - 👋 Hi, my name is John Li.
-- 👀 I’m an economist by training and I currently work as an actuary quantifying risks using stochastic models.
-- 🌱 I am deeply awed by the vast beauty and simplicity, complexity and chaos that co-exist in this world. I try to use Causality, Complexity Science, Bayesian statistics and Machine Learning to help me understand how everything works. However, I believe direct experience rather than knowledge (by way of conceptualization) of the real world is the best way to understand it, live it! 
-- 💞️ I’m experimenting the use of Machine Learning especially Causal AI for trading/investing. 
+- 👀 I’m an Economist, Actuary, Machine learning practitioner and Vipassana meditator.  
+- 🌱 I am deeply awed by the beauty and simplicity, complexity and chaos that co-exist in this world. I rely on statistics (especially Bayesian), Causal modeling, Complexity Science and Machine Learning to understand how everything works. However, I believe knowledge through direct experience often times triumphs over knowledge through conceptualization! 
+- 💞️ I’m currently experimenting the use of Causal modeling and Machine learning for trading/investing. 
